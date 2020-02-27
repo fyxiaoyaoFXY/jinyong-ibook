@@ -1,0 +1,23 @@
+{
+  "name": "jinyong-ibook",
+  "version": "1.0.0",
+  "description": "金庸小说介绍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyxiaoyaoFXY/jinyong-ibook.git"
+  },
+  "keywords": [],
+  "author": "fyxiaoyaoFXY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fyxiaoyaoFXY/jinyong-ibook/issues"
+  },
+  "homepage": "https://github.com/fyxiaoyaoFXY/jinyong-ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
